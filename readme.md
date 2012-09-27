@@ -1,4 +1,4 @@
-![domhound](logo/logo-full.png)
+![domhound](https://github.com/Hupotronic/domhound/raw/master/logo/logo-full.png)
 
 ## **A DOM Mutation Watcher**
 * Lightweight JS library with no external dependencies.
